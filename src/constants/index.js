@@ -240,7 +240,7 @@ const projects = [
     img: raysmusk,
     carousel: [ raysmusk1, raysmusk2,  raysmusk3],
     source_link: 'https://github.com/vishwjit3303/RaysMusk-React',
-    live_link: 'https://raysmuskcom.vercel.app/',
+    live_link: 'https://www.raysmusk.com/',
   },
   {
     id: 8,
